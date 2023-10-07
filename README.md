@@ -1,4 +1,4 @@
-##machine learning problem for business
+## machine learning problem for business
 
 Cross Industry Standard Process for Data Mining (CRISP-DM) is a six-phase process model that naturally describes the life cycle of data science using Machine Learning. This methodology will help you plan, organize, and implement projects.
  
